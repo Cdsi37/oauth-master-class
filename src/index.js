@@ -6,7 +6,7 @@ window.onload = () => {
         response_type: "token",
         redirect_uri: "https://https://oauth-master-class-peach.vercel.app/token.html",
       },
-      "https://https://oauth-master-class-peach.vercel.app",
+      "https://oauth-master-class-peach.vercel.app",
       {
         view: "button",
         parentId: "buttonContainer",
